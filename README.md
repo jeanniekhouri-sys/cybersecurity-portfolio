@@ -1,18 +1,16 @@
 # Cybersecurity Portfolio
 
-I work in education IT, where my day-to-day responsibilities eventually pulled me deeper into security than I expected. Managing platforms like Jamf Pro, Google Workspace, Microsoft Entra ID, CrowdStrike, and Rapid7 taught me how to operate and defend systems — but the more I worked with identity security, endpoint protection, and threat detection, the more I wanted to understand the attacker's perspective. That curiosity is what pushed me toward hands-on security training and, eventually, Capture the Flag competitions.
+I work in education IT, where my day-to-day responsibilities eventually pulled me deeper into security. Managing platforms like Jamf Pro, Google Workspace, Microsoft Entra ID, CrowdStrike, and Rapid7 taught me how to securely configure, operate and defend systems. I had begun my studies at SANS shortly before starting in my current position, but the more I worked with identity security, endpoint protection, and threat detection, the more I wanted to understand the attacker's perspective. Capture the Flag (CTF) competitions and exercises offer fantastic opportunities for hands-on exposure and training.
 
 ## CTF Experience
 
-My first CTF competition was the National Cyber League (NCL) in Spring 2026 — and it was one of the most valuable learning experiences I've had in this field. Working through challenges under time pressure, across categories I hadn't fully encountered before, exposed gaps in my knowledge that classroom learning hadn't surfaced.
-
-Categories I worked through included digital forensics, network traffic analysis, web application exploitation, cryptography, OSINT, log analysis, scanning and reconnaissance, password cracking, and enumeration and exploitation.
+My first CTF competition was the National Cyber League (NCL) in Spring 2026, and it was one of the most valuable learning experiences I have had in this field. Working through challenges under time pressure, even across categories I had never before encountered, made me more aware of gaps in my knowledge. Categories I worked through included digital forensics, network traffic analysis, web application exploitation, cryptography, OSINT, log analysis, scanning and reconnaissance, password cracking, and enumeration and exploitation.
 
 ## Reflection
 
-The biggest takeaway from the NCL — reinforced throughout Jacob Elliott's CTF 101 training and my own preparation — is that effective security work is more about methodology than memorization. Nearly every challenge required forming a hypothesis, testing it, recognizing when it failed, and starting over with what I'd learned. That loop of hypothesis → test → pivot is the same one you use in real incident investigations.
+The biggest takeaway from the NCL — reinforced throughout the training provided through BACS 3001 at SANS and my own preparation — is that effective security work is more about methodology than memorization. Nearly every challenge required forming a hypothesis, testing it, recognizing when it failed, and starting over with what I'd learned. That loop of hypothesis → test → pivot is the same one you use in real incident investigations.
 
-Practically, I came away with stronger Linux command-line habits, more comfort working with unfamiliar tools and file formats, and a genuine appreciation for disciplined note-taking. Writing things down isn't just good practice — in a long investigation, it's the difference between finding the answer and going in circles.
+Practically, I came away with stronger Linux command-line habits, more comfort working with unfamiliar tools and file formats, and a genuine appreciation for disciplined note-taking. Writing things down isn't just good practice; in a long investigation, it's the difference between finding the answer and going in circles.
 
 ## Highlights
 
@@ -35,6 +33,6 @@ Practically, I came away with stronger Linux command-line habits, more comfort w
 
 ## What I'm Working On
 
-Beyond the NCL, I'm actively building toward roles that sit at the intersection of identity security and detection engineering. Current focus areas include cloud identity and access management, endpoint detection and response, threat hunting, and security automation. I'm particularly interested in how detection logic gets built and tuned in enterprise environments — connecting the investigative skills from CTF work to operational security at scale.
+Beyond the NCL, I'm actively building toward roles that sit at the intersection of identity security and detection engineering. Current focus areas include cloud identity and access management, endpoint detection and response, threat hunting, and security automation. I'm particularly interested in how detection logic gets built and tuned in enterprise environments, connecting the investigative skills from CTF work to operational security at scale.
 
 If you're working on similar problems or want to connect, feel free to reach out.
