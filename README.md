@@ -28,8 +28,8 @@ Practically, I came away with stronger Linux command-line habits, more comfort w
 
 ## NCL Scouting Reports
 
-- **Individual Scouting Report:** *[[(Add public share link here)](https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87)](https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/report/69690a38f845cf0a7e6d8b90)*  
-- **Team Scouting Report:** *[(Add public share link here)](https://cyberskyline.com/world/69690a38f845cf0a7e6d8b8a/report/69690a38f845cf0a7e6d8b96)*
+- **Individual Scouting Report:** *https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/report/69690a38f845cf0a7e6d8b90*  
+- **Team Scouting Report:** *https://cyberskyline.com/world/69690a38f845cf0a7e6d8b8a/report/69690a38f845cf0a7e6d8b96*
 
 ## What I'm Working On
 
